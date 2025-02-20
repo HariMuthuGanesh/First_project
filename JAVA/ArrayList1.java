@@ -9,7 +9,6 @@ public class ArrayList1 {
         list.add(2);
         list.add(6);
         list.add(1);
-        list.add(2);
 
         int result1 = list.indexOf(6);
         System.out.println(result1);
